@@ -8,7 +8,6 @@ import Exchanges from "./components/Exchanges";
 import Cryptocurrencies from "./components/Cryptocurrencies";
 import CryptoDetails from "./components/CryptoDetails";
 import News from "./components/News";
-
 const App = () => {
   return (
     <div className="App">
